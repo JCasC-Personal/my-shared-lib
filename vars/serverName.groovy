@@ -1,3 +1,4 @@
+// vars/serverName.groovy
 def call() {
-    return ['server-001', 'server-002', 'server-003']
+    return ['server1', 'server2', 'server3'] // Example return value
 }

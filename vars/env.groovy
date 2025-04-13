@@ -1,3 +1,4 @@
+// vars/env.groovy
 def call() {
-    return ['dev', 'qa', 'staging', 'prod']
+    return ['DEV', 'QA', 'PROD'] // Example return value
 }
